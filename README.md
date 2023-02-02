@@ -63,3 +63,13 @@ bilibili开播提醒机器人、用户查询等的bilibili助手
 
 #### 更多使用详情请查看插件作者的github [bilibili-helper](https://github.com/cssxsh/bilibili-helper)
 
+---
+
+摸头杀
+
+>在群里发送“摸（摸爆）xx(这里可以直接@人，也可以直接写用户的关键词)”
+
+例如我想摸用户汤姆
+我可以在聊天栏发送“摸@汤姆” 或者 “摸汤”
+
+#### 插件作者github [PatPat](https://github.com/LaoLittle/PatPat)
