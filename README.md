@@ -38,6 +38,20 @@ help (help的前面不需要/或者.:heavy_exclamation_mark:)
 
 ---
 
+ATBot插件系列
+>jrrp 查询今日人品
+>
+>/hypban 查看hypixel看门狗和staff封禁情况
+>
+>/atinfo - 查询机器人的当前所有情况信息
+>
+>/反馈 [内容] - 反馈机器人的问题等
+
+#### 插件官方机器人qq群832275338（ATBot） 插件链接[ATBot](https://github.com/AxT-Team/ATBot)
+
+前置插件[Mirai-Native](https://github.com/cssxsh/mirai-native)
+---
+
 Hypixel玩家信息查询
 /hyp {player} (分类)
 
@@ -89,4 +103,8 @@ qq群管禁言插件
 
 专业防刷屏，不信你试试
 
-#### 作者链接[miraimuteplugin](https://github.com/JOYACEpoor/miraimuteplugin)
+#### 插件作者github [miraimuteplugin](https://github.com/JOYACEpoor/miraimuteplugin)
+
+---
+
+
