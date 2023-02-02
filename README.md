@@ -73,3 +73,20 @@ bilibili开播提醒机器人、用户查询等的bilibili助手
 我可以在聊天栏发送“摸@汤姆” 或者 “摸汤”
 
 #### 插件作者github [PatPat](https://github.com/LaoLittle/PatPat)
+
+---
+
+mc服务器查询
+>/mcp {服务器ip或者域名}
+
+#### 插件作者github []()
+
+---
+
+qq群管禁言插件
+
+一个简单的qq群复读禁言插件,使用前记得先给bot上管理员
+
+专业防刷屏，不信你试试
+
+#### 作者链接[miraimuteplugin](https://github.com/JOYACEpoor/miraimuteplugin)
