@@ -55,9 +55,7 @@ ATBot插件系列
 Hypixel玩家信息查询
 /hyp {player} (分类)
 
-PS：当前分类仅支持bw(bedwars)和sw(skywars)的游戏分类查询，更多功能持续更新中
 
-#### 本插件是由我们自请的大佬制作的 暂不进行开源 如有不便 敬请谅解:heart:
 
 ---
 
